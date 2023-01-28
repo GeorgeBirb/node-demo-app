@@ -1,0 +1,36 @@
+{"programmingL":[
+    { "id":0,
+      "name":"HTML5",
+      "stars":"5",
+      "info":"Hyper Text Markup Language, better known simply as HTML, is the standard language used for building websites. HTML describes the structure of a Web page and consists of a series of elements.These elements determine the content displayed on the browser (i.e. image, link, icon etc.)",
+      "history":"HTML was created by Sir Tim Berners-Lee in late 1991 and released officially in 1995 as HTML 2.0. HTML is a very evolving markup language with HTML 4.01, a successful version of HTML before HTML 5.,0 being published in 1999.HTML 5 can be considered an extended version of HTML 4.01 and was published in the year 2012."
+     },
+    {
+      "id":1,
+      "name":"CSS3", 
+      "stars":"5",   
+      "info":"HTML (Hyper Text Markup Language) and CSS (Cascading Style Sheets) are the most basic building blocks of web coding.Cascading Style Sheets (CSS) : stylesheet language for describing the presentation of a document written in HTML or XML. CSS describes how elements should be rendered on a screen",
+      "history":"The development of style sheet was to make the markup language more impressive. It was discovered around 1980s in the beginning of the SGML.The third level of CSS was started to develop around 1998. And till 2009, it was under development. The first working draft of CSS3 came in 19-01-2001. And since the first introduction still it is under construction.s. Though the first working draft of CSS3 came on 19-01-2001, but it was initially declared early in the June 1999."
+    },
+    { 
+      "id":2,
+      "name":"Javascript",
+      "stars":"5",
+      "info":"JavaScript is the world's most popular programming language. It is a full-fledged dynamic programming language that is capable of adding interactivity to a website. JavaScript is easy to learn",
+      "history":"Javascript was developed by Brendan Eich in 1995 (co-founder of the Mozilla project), the Mozilla Foundation, and the Mozilla Corporation.It firstly appeared in Netscape, a popular browser of that time.Initial name: LiveScript. JavaScript and Java are very much unrelated.JavaScript syntax is mostly influenced by the programming language C"
+    },
+    {  
+      "id":3,
+      "name":"PHP", 
+      "stars":"5",
+      "info":"PHP is a widely-used, open source server scripting language that is especially suited for web development & can be embedded to HTML.It is considered a powerful tool for making dynamic & interactive Web pages",
+      "history":"1994: PHP (firstly named PHP/FI) was created by Rasmis Lesdorf, software engineer . 1995: in October, 1995, Rasmus released a complete rewrite of the code. Bringing back the PHP name, short for \"Personal Home Page\\” Construction Kit. 1998: PHP 3.0 was the first version that closely resembles PHP as it exists today. PHP 7 is the latest stable release"
+    },
+    {  
+        "id":4,
+        "name":"Python", 
+        "stars":"3",
+        "info":"Python is an interpreted high-level general-purpose programming language. Python's design philosophy emphasizes code readability with its notable use of significant indentation. Its language constructs as well as its object-oriented approach aim to help programmers write clear, logical code for small and large-scale projects.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly, procedural), object-oriented and functional programming. Python is often described as a \"batteries included\" language due to its comprehensive standard library",
+        "history":"Python was conceived in the late 1980s by Guido van Rossum at Centrum Wiskunde & Informatica (CWI) in the Netherlands as a successor to ABC programming language, which was inspired by SETL, capable of exception handling and interfacing with the Amoeba operating system. Its implementation began in December 1989."
+      }
+  ]}
